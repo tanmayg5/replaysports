@@ -1,0 +1,79 @@
+Privacy Policy for ReplaySports
+
+Effective Date: August 17, 2025
+
+This Privacy Policy describes how ReplaySports ("we," "us," or "our") collects, uses, processes, and discloses your information, including personal information, in conjunction with your access to and use of the ReplaySports mobile application (the "App") and its services (collectively, the "Services").
+This policy is prepared in compliance with applicable data protection laws in India, including the Digital Personal Data Protection Act (DPDPA).
+
+
+1. Introduction
+ReplaySports is a marketplace platform designed to facilitate the donation, sale, and purchase of pre-owned sports equipment and apparel. Our mission is to give sports gear a second life. This policy applies to all users of our Services, including those who donate/sell items ("Sellers"), those who purchase items ("Buyers"), and those who browse the App.
+By using our Services, you agree to the collection, transfer, storage, disclosure, and use of your information as described in this Privacy Policy. If you do not agree with this policy, please do not use the ReplaySports App.
+
+2. Information We Collect
+We collect information to provide and improve our Services. The types of information we collect can be described as follows:
+
+2.1. Information You Provide to Us
+  •	Account Information: When you register for an account, we require certain information such as your email address and password. This is processed securely via Firebase Authentication.
+  •	Profile Information: To complete your profile, you may provide us with additional information, which may include your full name, phone number, shipping address (including city and pincode), and a profile picture.
+  •	Donation/Listing Information: When you list an item for donation or sale, we collect all the information you provide, including product photos, name, description, and category.
+  •	Order Information: When you place an order, we collect information related to that transaction, including your shipping address and the details of the items you are purchasing.
+  •	Communications and Queries: When you communicate with us through the in-app query system, contact us via email, or otherwise, we collect information about your communication and any information you choose to provide.
+
+2.2. Information We Do Not Collect
+  •	Sensitive Financial Information: We do not collect or store any sensitive financial information such as bank account numbers, credit/debit card numbers, or UPI IDs. All payments are handled manually by you, the user, based on the instructions provided. We only track the status of the payment (e.g., "awaiting_payment," "payment_verification_pending").
+
+
+3. How We Use Your Information
+We use the information we collect for various purposes, including:
+  •	To Provide, Improve, and Maintain our Services:
+    o	Enable you to create and access your account.
+    o	Allow you to list items for donation/sale.
+    o	Facilitate the purchase and delivery of items.
+    o	Manage and display your order history and listings.
+  •	For Admin and Moderation Purposes:
+    o	To allow our admin to review, approve, reject, price, and manage all product listings to ensure quality and safety.
+    o	To manage and respond to user queries and provide customer support.
+    o	To manage and verify orders and payment statuses.
+  •	For Security and Safety:
+    o	To detect and prevent fraud, spam, abuse, security incidents, and other harmful activity.
+    o	To enforce our Terms of Service and other policies.
+    o	To comply with our legal obligations.
+  •	To Communicate with You:
+    o	To send you messages regarding your account, orders, listings, and queries.
+    o	To inform you about changes to our Services, our terms, or our policies.
+
+
+4. How We Share Your Information
+Your information is shared in the following ways:
+  •	With Other Users: When a transaction occurs, we will share necessary information between the Buyer and our administrative team to facilitate shipping and delivery. This includes the Buyer's name and shipping address. Your contact details like email or phone number are not shared with other users.
+  •	With Third-Party Service Providers: We use third-party services to help us operate our App. These services have access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Our providers include:
+    o	Google Firebase: For database hosting (Firestore), user authentication, cloud storage for images, and secure backend functions.
+  •	For Legal Reasons: We may disclose your information to courts, law enforcement, or governmental authorities if we are required or permitted to do so by law or if such disclosure is reasonably necessary to comply with a legal process.
+
+
+5. Your Rights and Choices
+In accordance with the DPDPA and other applicable laws, you have the following rights regarding your personal data:
+  •	Right to Access: You can review the information you have provided to us at any time by logging into your profile.
+  •	Right to Correction and Erasure: You have the right to correct, update, or request the deletion of your personal information. You can edit your profile information directly in the app. To delete your account and associated data, you can use the "Delete Account" feature in your profile. Please note that we may retain certain information as required by law or for legitimate business purposes.
+  •	Right to Grievance Redressal: You have the right to file a grievance with us regarding the processing of your personal data. Please contact us using the details provided below.
+
+
+6. Data Security
+We are continuously implementing and updating administrative, technical, and physical security measures to help protect your information against unauthorized access, loss, destruction, or alteration. All data transmitted between your device and our servers is encrypted in transit (using HTTPS).
+
+
+7. Children's Privacy
+Our Services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children under 18. If we become aware that a child under 18 has provided us with personal information, we will take steps to delete such information.
+
+
+8. Changes to This Privacy Policy
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the "Effective Date" at the top of the policy and, in some cases, we may provide you with additional notice (such as a notification within the App).
+
+
+9. Contact Us
+If you have any questions, comments, or complaints about this Privacy Policy or our information handling practices, please contact us at:
+  •	Business Name: ReplaySports
+  •	Email: replaysportsindia@gmail.com
+This policy is governed by the laws of India, and any disputes will be subject to the exclusive jurisdiction of the courts of Indore, Madhya Pradesh.
+
